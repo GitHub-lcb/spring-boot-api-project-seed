@@ -20,7 +20,7 @@ public class CodeGenerator {
     //JDBC配置，请修改为你项目的实际配置
     private static final String JDBC_URL = "jdbc:mysql://182.61.133.118:3306/sszg_local_1";
     private static final String JDBC_USERNAME = "root";
-    private static final String JDBC_PASSWORD = "newtalent";
+    private static final String JDBC_PASSWORD = "123456";
     private static final String JDBC_DIVER_CLASS_NAME = "com.mysql.jdbc.Driver";
 
     private static final String PROJECT_PATH = System.getProperty("user.dir") + "/spring-boot-api-project-seed";//项目在硬盘上的基础路径
